@@ -1,6 +1,6 @@
 Oie, eu sou o Dharan, desenvolvedor Full Stack sempre em desenvolvimento
 - 🔭 Atualmente aprimorando conhecimentos /  I’m currently improving my knowledge 
-- 🌱 Atualmente aprendendo mais sobre Javascript e Java / I’m currently learning/ Javascript and Java
+- 🌱 Atualmente aprendendo mais sobre  Java / I’m currently learning Java
 - ⚡ Fun fact: Sou um Mestre Pokémon / I'm Pokémon Master 
 
 <div align="center">
