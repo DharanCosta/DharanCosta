@@ -1,6 +1,6 @@
-Oie, eu sou o Dharan, desenvolvedor Full Stack sempre em desenvolvimento
-- 🔭 Atualmente aprimorando conhecimentos /  I’m currently improving my knowledge 
-- 🌱 Atualmente aprendendo mais sobre  Java / I’m currently learning Java
+Olá, eu sou o Dharan, desenvolvedor em desenvolvimento, pode isso?
+- 🔭 Atualmente aprimorando conhecimentos em JAVA /  I’m currently improving my JAVA skills 
+- 🌱 Atualmente aprendendo mais sobre Microsserviços / I’m currently learning Microsservices
 - ⚡ Fun fact: Sou um Mestre Pokémon / I'm Pokémon Master 
 
 <div align="center">
