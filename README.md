@@ -1,7 +1,12 @@
+Hello! I'm Dharan, developer always in development, discover new things is my hobby.
+- 🔭   I’m currently improving my JAVA, Spring boot skills;
+- 🌱   I’m currently learning Microsservices;
+- ⚡   Fun fact: I'm Pokémon Master; 
+
 Olá, eu sou o Dharan, desenvolvedor em desenvolvimento, pode isso?
-- 🔭 Atualmente aprimorando conhecimentos em JAVA /  I’m currently improving my JAVA skills 
-- 🌱 Atualmente aprendendo mais sobre Microsserviços / I’m currently learning Microsservices
-- ⚡ Fun fact: Sou um Mestre Pokémon / I'm Pokémon Master 
+- 🔭 Atualmente aprimorando conhecimentos em JAVA 
+- 🌱 Atualmente aprendendo mais sobre Microsserviços 
+- ⚡ Fun fact: Sou um Mestre Pokémon 
 
 <div align="center">
   <a href="https://github.com/DharanCosta">
